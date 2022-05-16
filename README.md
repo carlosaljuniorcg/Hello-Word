@@ -1,2 +1,4 @@
-# Hello Word
- Primeiro Repositório do Curso de GitHub
+# Olá, mundo! 
+ Primeiro Repositório do Curso de Git e GitHub
+
+ Repositório feito por Carlos Antônio
